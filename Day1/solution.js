@@ -10,7 +10,8 @@ for(let i = 0; i<=lines.length; i++){
 }
 console.log(measureCount);
 
-//
+//2nd part 
+
 let increasedCount = 0;
 
 for(let i=2 ; i< lines.length; i++){
